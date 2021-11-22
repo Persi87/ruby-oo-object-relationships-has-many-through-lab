@@ -1,4 +1,5 @@
 require 'spec_helper'
+
 describe 'Doctor' do
   describe '#name' do
     it 'has a name' do
